@@ -1,4 +1,13 @@
-﻿Class Perm
+﻿#
+
+Class Test
+{
+$a
+$b
+$c
+}
+
+Class Perm
 {
 $name
 $OU
